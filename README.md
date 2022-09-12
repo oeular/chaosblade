@@ -2,7 +2,7 @@
 
 ### Using Helm
 
-Alternatively, you may use [Helm](https://helm.sh/docs/intro/quickstart/); which is a package manager for Kubernetes.
+Use [Helm](https://helm.sh/docs/intro/quickstart/); which is a package manager for Kubernetes.
 
 Install the Helm repository:
 

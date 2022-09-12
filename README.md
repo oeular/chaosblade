@@ -1,4 +1,4 @@
-# chaosblad-operator
+# chaosblade-operator
 
 ### Using Helm
 
